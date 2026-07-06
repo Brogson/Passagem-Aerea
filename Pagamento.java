@@ -1,5 +1,8 @@
 package trabalhoPOO;
 
-public class Pagamento {
+public abstract class Pagamento {
 
+	public abstract void processar() {
+		
+	}
 }
