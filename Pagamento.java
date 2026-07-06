@@ -2,7 +2,5 @@ package trabalhoPOO;
 
 public abstract class Pagamento {
 
-	public abstract void processar() {
-		
-	}
+	public abstract void processar();
 }
